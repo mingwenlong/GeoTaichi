@@ -7,7 +7,6 @@
 ## 简介
 
 GeoTaichi 是一个基于 [Taichi](https://github.com/taichi-dev/taichi) 的数值计算工具包，用于高性能模拟多尺度、多物理的地球物理与岩土工程问题。
-本项目由浙江大学 [多尺度岩土力学实验室](https://person.zju.edu.cn/en/nguo) 开发与维护。
 
 <p align="center">
     <img src="https://github.com/Yihao-Shi/GeoTaichi/blob/main/images/GeoTaichi.png" width="90%" height="90%" />
